@@ -4,9 +4,9 @@ My main focus in Back-end development, but I also have a basic knowledge of Fron
 
 :mailbox: Reach me out:
 
-![Static Badge](https://img.shields.io/badge/Taras%20Kurenda-FF0000?style=flat&logo=Gmail&logoColor=white&labelColor=FF0000&link=mailto%3Achaserw0w.ti%40gmail.com)
-![Static Badge](https://img.shields.io/badge/LinkedIn-0a66c2?style=flat&logo=LinkedIn&logoColor=white&labelColor=0a66c2&link=www.linkedin.com%2Fin%2Ftaras-kurenda)
-![Static Badge](https://img.shields.io/badge/Telegram-e74c3c?style=flat&logo=Telegram&logoColor=white&labelColor=blue&color=blue&link=https%3A%2F%2Ft.me%2FChaserw0w)
+[![Gmail Badge](https://img.shields.io/badge/Taras%20Kurenda-FF0000?style=flat&logo=Gmail&logoColor=white&labelColor=FF0000&link=mailto%3Achaserw0w.ti%40gmail.com)](mailto:chaserw0w.ti@gmail.com)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0a66c2?style=flat&logo=LinkedIn&logoColor=white&labelColor=0a66c2&link=www.linkedin.com%2Fin%2Ftaras-kurenda)](www.linkedin.com/in/taras-kurenda)
+[![Telegram Badge](https://img.shields.io/badge/Telegram-e74c3c?style=flat&logo=Telegram&logoColor=white&labelColor=blue&color=blue&link=https%3A%2F%2Ft.me%2FChaserw0w)](https://t.me/Chaserw0w)
 
 
 #### Top Technologies
