@@ -16,6 +16,7 @@ My main focus is Back-end development, but I also have a basic knowledge of Fron
 ![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-blue?style=flat&logo=postgresql&logoColor=white&color=%234169E1)
 ![Hibernate Badge](https://img.shields.io/badge/Hibernate-blue?style=flat&logo=Hibernate&logoColor=white&color=%2359666C)
 ![Maven Badge](https://img.shields.io/badge/Maven-white?style=flat&logo=apachemaven&logoColor=white&color=%23C71A36)
+<br/>
 ![JUnit Badge](https://img.shields.io/badge/JUnit-white?style=flat&logo=JUnit5&logoColor=white&color=%2325A162)
 ![Docker Badge](https://img.shields.io/badge/Docker-white?style=flat&logo=docker&logoColor=white&color=%232496ED)
 ![Git Badge](https://img.shields.io/badge/Git-white?style=flat&logo=git&logoColor=white&color=%23F05032)
