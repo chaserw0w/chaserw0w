@@ -22,9 +22,16 @@ My main focus in Back-end development, but I also have a basic knowledge of Fron
 ![SVN Badge](https://img.shields.io/badge/Subversion-white?style=flat&logo=subversion&logoColor=white&color=%23809CC9)
 ![HTML Badge](https://img.shields.io/badge/HTML-white?style=flat&logo=html5&logoColor=white&color=%23E34F26)
 ![CSS Badge](https://img.shields.io/badge/CSS-white?style=flat&logo=css3&logoColor=white&color=%231572B6)
+<br/>
+<br/>
 
-
-
-
-
+<!---
+Charts
+-->
+<a href="https://github.com/chaserw0w/github-readme-stats">
+  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=chaserw0w&show_icons=true&theme=dracula" />
+</a>
+<a href="https://github.com/chaserw0w/github-readme-stats">
+  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaserw0w&layout=compact&langs_count=8&card_width=320" />
+</a>
 
