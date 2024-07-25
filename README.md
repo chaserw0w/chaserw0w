@@ -24,7 +24,6 @@ My main focus is Back-end development, but I also have a basic knowledge of Fron
 ![CSS Badge](https://img.shields.io/badge/CSS-white?style=flat&logo=css3&logoColor=white&color=%231572B6)
 <br/>
 <br/>
-
 <!---
 Charts
 -->
