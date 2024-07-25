@@ -1,6 +1,6 @@
 ## Hi there 👋
 I'm Taras Kurenda, a Java Software Engineer with almost 2 years of commercial experience. Experienced in creating Java web applications.
-My main focus in Back-end development, but I also have a basic knowledge of Front-end technologies like JavaScript and Angular. I spend most of my time upgrading my technical skills either by practicing coding exercises, learning new tools and technologies, coding for fun or taking the courses.
+My main focus is Back-end development, but I also have a basic knowledge of Front-end technologies like JavaScript and Angular. I spend most of my time upgrading my technical skills either by practicing coding exercises, learning new tools and technologies, coding for fun or taking the courses.
 
 :mailbox: Reach me out:
 
