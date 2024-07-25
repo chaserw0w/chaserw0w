@@ -29,9 +29,9 @@ My main focus is Back-end development, but I also have a basic knowledge of Fron
 Charts
 -->
 <a href="https://github.com/chaserw0w/github-readme-stats">
-  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=chaserw0w&show_icons=true&theme=dracula" />
+  <img height="200" width="500" align="center" src="https://github-readme-stats.vercel.app/api?username=chaserw0w&show_icons=true&theme=dracula" />
 </a>
 <a href="https://github.com/chaserw0w/github-readme-stats">
-  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaserw0w&layout=compact&langs_count=8&card_width=320" />
+  <img height="200" width="500" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaserw0w&layout=compact&langs_count=8&card_width=320" />
 </a>
 
